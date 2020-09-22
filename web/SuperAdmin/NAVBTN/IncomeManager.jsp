@@ -1,10 +1,3 @@
-<%--
-  Created by IntelliJ IDEA.
-  User: Srilal Sachintha
-  Date: 8/7/2020
-  Time: 9:31 PM
-  To change this template use File | Settings | File Templates.
---%>
 <nav class="navbar navbar-light navbar-expand bg-white shadow mb-4 topbar static-top">
     <div class="container-fluid">
         <h3>FoodHut</h3>
